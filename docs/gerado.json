@@ -1,0 +1,33 @@
+{
+  "title": "Asset Metadata c",
+  "type": "NFT",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Identifies the asset to which this NFT represents 99"
+    },
+    "description": {
+      "type": "string",
+      "description": "Describes the asset to which this NFT represents 99"
+    },
+    "image": {
+      "type": "string",
+      "description": "https://i.pinimg.com/564x/e3/0b/ee/e30beeed451d4ef26ccf9aa007783580.jpg"
+    }
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Level",
+      "value": "99",
+      "display_type": "number"
+    }
+  ]
+}
